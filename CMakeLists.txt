@@ -3,4 +3,4 @@ project(c_for_java_programmers C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(c_for_java_programmers main.c)
+add_executable(c_for_java_programmers basics.c objects.c binary_search_tree.c hello_world.c)
