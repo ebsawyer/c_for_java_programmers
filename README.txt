@@ -1,4 +1,4 @@
-This repository contains a completed tutorial is for programmers who already
+This repository contains a completed tutorial for programmers who already
 know how to program in Java and want to learn how to program in C. It consists
 of a series of short programming challenges.
 
