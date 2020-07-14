@@ -12,6 +12,6 @@ There are 6 programming challenges:
 
 4. Binary Search Tree - binary_search_tree.c
 
-5. Reusable Code
+5. Reusable Code - employee.h, employee.c, employee_test.c
 
 6. Linked List
